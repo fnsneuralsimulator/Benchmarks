@@ -4,7 +4,7 @@
    <stop>1000</stop><!-- simulation time (ms) -->
    <lif>false</lif>
    <exp_decay>true</exp_decay>
-   <serialize_after>200</serialize_after>
+   <serialize_after>100</serialize_after>
 
    <glob_n>4000</glob_n><!-- number of neurons for each node -->
    <glob_rewiring_P>1</glob_rewiring_P><!-- SW rewiring probability-->
