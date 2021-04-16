@@ -24,7 +24,7 @@
    <glob_external_inputs_time_offset>0</glob_external_inputs_time_offset><!-- external input initial time offset -->
    <glob_external_inputs_timestep>200</glob_external_inputs_timestep><!-- time step between two distinct input events from the same input source, for Poisson and constant input type -->
    <glob_external_inputs_fireduration>1000</glob_external_inputs_fireduration><!-- duration of the external input -->
-   <glob_external_inputs_amplitude>0.63</glob_external_inputs_amplitude><!-- amplitude of each external input -->
+   <glob_external_inputs_amplitude>0.633</glob_external_inputs_amplitude><!-- amplitude of each external input -->
    <avg_neuronal_signal_speed>5.1</avg_neuronal_signal_speed><!-- axonal speed -->
    <glob_plasticity>false</glob_plasticity><!-- enable plasticity rule -->
    <glob_plasticity_eta_plus></glob_plasticity_eta_plus>
