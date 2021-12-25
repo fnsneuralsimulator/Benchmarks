@@ -16,6 +16,6 @@ $ ./start BENCHMARK_x -r (Linux)
 
 the simulation output will be generated in the folder FNS/BENCHMARK_x/output.
  
-We recommend to set the JAVA 'heap size' before starting the simulations, to manage memory usage/problems. Please refer to the reference manuscript and to the FNS user manual for additional information:
+We recommend to set the JAVA 'heap size' before starting the simulations, to manage memory usage/problems. Please refer to the reference [manuscript]https://www.nature.com/articles/s41598-021-91513-8 and to the FNS user manual for additional information:
 
 https://docs.google.com/document/d/1TJ5vWIBHW81IaySHM5b81JeZehEwZXo8hFj2SIrKnKY/export?format=pdf
