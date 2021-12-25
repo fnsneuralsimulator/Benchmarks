@@ -18,4 +18,4 @@ the simulation output will be generated in the folder FNS/BENCHMARK_x/output.
  
 We recommend to set the JAVA 'heap size' before starting the simulations, to manage memory usage/problems. Please refer to the reference manuscript and to the FNS user manual for additional information:
 
-https://docs.google.com/document/d/1-oJK6dzu6KIggYonajqVq8xA6mUZ3ZZdBMq7zVMyTcA/export?format=pdf
+https://docs.google.com/document/d/1TJ5vWIBHW81IaySHM5b81JeZehEwZXo8hFj2SIrKnKY/export?format=pdf
